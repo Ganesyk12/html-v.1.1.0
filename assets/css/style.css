@@ -30,6 +30,15 @@ body {
   color: black;
 }
 
+.datatable thead th {
+  font-size: 0.8em; /* Mengubah ukuran font */
+  text-align: center; /* Meratakan teks di tengah */
+}
+.dataTables_filter {
+  float: right; /* Posisi kanan */
+  border: 0.5px solid #000; /* Border 0.5px */
+}
+
 a {
   color: #4154f1;
   text-decoration: none;
